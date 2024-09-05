@@ -8,3 +8,5 @@ boom,putting something on 6
 
 
 Yes the conflict is resolved.
+
+We're going to do some analysis
